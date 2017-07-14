@@ -28,16 +28,16 @@ Cada jogador quer adotar uma estratégia diferente de descarte de cartas:
 Exemplo:
 
 Rodada | Carta sorteada   | Mão de João | Pontos de João | Mão de Maria | Pontos de Maria
-  1    |	     1        |  1          |       0        |	1           |       0
-  2    |	     2        |  1,2        |       0        |	1,2	        |      	0
-  3    |	     4        |  1,2,4      |       0        |	1,2,4	    |      	0
-  4    |	     6        |  1,2,4,6    |       0        |	1,2,4,6    	|      	0
-  5    |	     1        |  1,2,4,6    |       1        |  1,2,4,6	    |      	1
-  6    |	     8        |  1,2,4,6,8  |       1        |	1,2,4,6,8   |      	1
-  7    |	     10       |  1,4,6,8,10	|       1        |	2,4,6,8,10	|      	1
-  8    |	     2        |  1,2,6,8,10	|       1        |	2,4,6,8,10	|      	2
-  9    |	     4        |  1,2,4,8,10	|       1        |	2,4,6,8,10	|      	3
-  10   |	     1        |  1,2,4,8,10	|       2        | 	1,4,6,8,10  |      	3
+  1    |         1        |  1          |       0        |  1           |       0
+  2    |         2        |  1,2        |       0        |  1,2         |       0
+  3    |         4        |  1,2,4      |       0        |  1,2,4       |       0
+  4    |         6        |  1,2,4,6    |       0        |  1,2,4,6     |       0
+  5    |         1        |  1,2,4,6    |       1        |  1,2,4,6     |       1
+  6    |         8        |  1,2,4,6,8  |       1        |  1,2,4,6,8   |       1
+  7    |         10       |  1,4,6,8,10 |       1        |  2,4,6,8,10  |       1
+  8    |         2        |  1,2,6,8,10 |       1        |  2,4,6,8,10  |       2
+  9    |         4        |  1,2,4,8,10 |       1        |  2,4,6,8,10  |       3
+  10   |         1        |  1,2,4,8,10 |       2        |  1,4,6,8,10  |       3
 
 
 Sendo joaoPoints e mariaPoints a pontuação de cada jogador, qual será o valor de |joaoPoints - mariaPoints| depois dos 2 milhões de rounds especificados no arquivo rounds.txt?
