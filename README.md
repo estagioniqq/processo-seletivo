@@ -1,1 +1,2 @@
-# processo-seletivo
+# Processo seletivo Niqq
+Desafio de programação.
