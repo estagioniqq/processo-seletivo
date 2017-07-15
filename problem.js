@@ -40,7 +40,7 @@ Rodada | Carta sorteada   | Mão de João | Pontos de João | Mão de Maria | Po
   10   |         1        |  1,2,4,8,10 |       2        |  1,4,6,8,10  |       3
 
 
-Sendo joaoPoints e mariaPoints a pontuação de cada jogador, qual será o valor de |joaoPoints - mariaPoints| depois dos 2 milhões de rounds especificados no arquivo rounds.txt?
+Sendo joaoPoints e mariaPoints a pontuação de cada jogador, qual será o valor de |joaoPoints - mariaPoints| depois dos 2 milhões de rounds especificados no arquivo rounds.json?
 
 */
 
