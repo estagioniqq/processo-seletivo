@@ -2,6 +2,7 @@
 Instruções:
 
 - Escreva o código em Javascript
+- Sugere-se executar com Node.js
 - Documente o código o quanto achar necessário
 
 - Envie a resposta no site estagio.niqq.in/desafio
